@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@auth0/auth0-react": "^2.3.0",
+    "@radix-ui/react-icons": "^1.3.2",
+    "@radix-ui/react-select": "^2.1.7",
+    "@tanstack/react-query": "^5.72.2",
+    "sonner": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-query": "^1.2.8"
+  }
+}
